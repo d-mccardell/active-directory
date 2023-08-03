@@ -138,11 +138,26 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://github.com/d-mccardell/configure-ad/assets/116754993/26333f40-f773-4643-b18d-35dfa9f0869e" height="50%" width="50%"/>
 <p>27. Open PowerShell_ise as an administrator<br/>
-  *search powershell ise then right click and click on open as an administrator.*<br/>
-28. Create a new File and paste the contents of the [Script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) inyto  
-Run the script and observe the accounts being created
-When finished, open ADUC and observe the accounts in the appropriate OU
-attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+  *search powershell ise then right click and click on open as an administrator.*</p>
+  <br/>
+  <br/>
+
+<img src="https://github.com/d-mccardell/configure-ad/assets/116754993/808e0c4e-7539-4d95-9c4b-18fbf3f0c6db" height="50%" width="50%"/>
+<p>28. Create a new File and paste the contents of the <a href="https://www.github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1" title="Script"/> script</a> into it.<br/>
+29. Run the script and observe the accounts being created. </p>
+<br/>
+<br/>
+
+<img src="https://github.com/d-mccardell/configure-ad/assets/116754993/4fdf2f90-711d-4688-936a-c9301e1a99a2" height="50%" width="50%"/>
+<p>30. When finished, open ADUC (Active Directory Users and Computers) and observe the accounts in the appropriate OU.</p>
+<br/>
+<br/>
+
+<img src="https://github.com/d-mccardell/configure-ad/assets/116754993/d7d928b7-0015-4ffc-8f0e-ab8c2e4203ac" height="50%" width="50%"/>
+<p>31. Attempt to log into Client-1 with one of the accounts (take note of the password in the script)</p>
+
+
+
 
 
 
